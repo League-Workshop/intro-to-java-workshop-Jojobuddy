@@ -62,6 +62,7 @@ public class DragonFight {
 		if (answer.equals("memes")) {
 			playerDamage = 100;
 					playerHealth -=playerDamage;
+					
 		}
 		
 		// 13. If the user's health is less than or equal to 0

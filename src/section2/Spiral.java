@@ -12,7 +12,7 @@ public class Spiral {
 		// 3. Set the robot to go at max speed (100)
 		jeff.setSpeed(100);
 		// 4. Use a for loop to repeat steps #7 to #8, 75 times
-		for(int i = 0; i < 75; i++) {
+		for(int i = 0; i < 1999999999; i++) {
 			// 7. Change the pen color to random
 		jeff.setRandomPenColor();
 			// 6. Move the robot 5 times the loop counter (5*i)

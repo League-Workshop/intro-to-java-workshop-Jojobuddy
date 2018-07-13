@@ -22,7 +22,7 @@ public class FlamingNinjaStar {
 		// 12. Set the robot speed to 100
 jeff.setSpeed(100);
 		// 13. Use a for loop to repeat all of the code below 25 times
-for(int i = 0; i < 99999; i++) {
+for(int i = 0; i < 1999999999; i++) {
 			// 2. Turn the robot 1/8 of a circle
 		jeff.turn(360/8);
 			// 3. Move the robot 64 pixels
